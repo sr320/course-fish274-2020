@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556050360694.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1194169476",
+    "id" : "998CDA41",
+    "lastKnownWriteTime" : 1556306757,
+    "last_content_update" : 1556306757818,
+    "path" : "~/Documents/GitHub/course-fish497-2019/R-projects/w4_2019/scripts/Tuesday.R",
+    "project_path" : "scripts/Tuesday.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

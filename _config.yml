@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+kramdown:
+  input:          GFM
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Introduction to Data Analysis for Aquatic Sciences
+description:      'A newish course with a focus on R - no experience required'
+url:              https://sr320.github.io/course-fish274-2019
+baseurl:          /course-fish274-2019
+email:            roberts.sbr@gmail.com
+feedbackurl:
+author:
+  name:           'Steven Roberts'
+  url:            https://twitter.com/sr320
+
+github:
+  repo:           https://github.com/sr320/course-fish274-2019
+  #               Be sure the 'Issues' feature is activated in 'Settings'

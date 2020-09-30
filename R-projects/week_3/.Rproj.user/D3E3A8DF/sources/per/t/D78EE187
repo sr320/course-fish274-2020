@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570831361435.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "741501576",
+    "id" : "D78EE187",
+    "lastKnownWriteTime" : 1527530280,
+    "last_content_update" : 1527530280,
+    "path" : "~/Documents/GitHub/course-fish274-2019/R-projects/week-4/scripts/my-script.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "9,21",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

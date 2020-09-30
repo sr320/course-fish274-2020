@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571935941896.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49543A28",
+    "lastKnownWriteTime" : 8589934336,
+    "last_content_update" : 1571935941896,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "828FC9B3",
+        "caption" : "avian",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=avian&cache_key=828FC9B3",
+        "displayedObservations" : "3801",
+        "environment" : "",
+        "object" : "avian",
+        "preview" : "0",
+        "totalObservations" : "3801",
+        "variables" : "44"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

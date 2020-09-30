@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571160384881.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1F0AAF30",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1571160384881,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "DDA8DB69",
+        "caption" : "avg_height",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=avg_height&cache_key=DDA8DB69",
+        "displayedObservations" : 4,
+        "environment" : "",
+        "object" : "avg_height",
+        "preview" : 0,
+        "totalObservations" : 4,
+        "variables" : 2
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

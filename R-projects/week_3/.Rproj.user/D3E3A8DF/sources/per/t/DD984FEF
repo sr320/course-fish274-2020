@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570831363922.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "263880682",
+    "id" : "DD984FEF",
+    "lastKnownWriteTime" : 1527530280,
+    "last_content_update" : 1527530280,
+    "path" : "~/Documents/GitHub/course-fish274-2019/R-projects/week-4/scripts/nyflights.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

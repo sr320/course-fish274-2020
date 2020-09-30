@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556815624128.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "760099139",
+    "id" : "6292141A",
+    "lastKnownWriteTime" : 1527530280,
+    "last_content_update" : 1527530280,
+    "path" : "~/Documents/GitHub/course-fish274-2019/R-projects/week-5/Lecture.R",
+    "project_path" : "Lecture.R",
+    "properties" : {
+        "cursorPosition" : "45,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

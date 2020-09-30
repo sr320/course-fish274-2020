@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555609518945.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3817268051",
+    "id" : "4502F204",
+    "lastKnownWriteTime" : 1555609409,
+    "last_content_update" : 1555609409,
+    "path" : "~/Documents/GitHub/course-fish497-2019/R-projects/w3-2019/scripts/me_in_class.R",
+    "project_path" : "scripts/me_in_class.R",
+    "properties" : {
+        "cursorPosition" : "88,0",
+        "scrollLine" : "80"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

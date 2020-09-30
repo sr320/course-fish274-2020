@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556815251427.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "467414647",
+    "id" : "272D2022",
+    "lastKnownWriteTime" : 1572287539,
+    "last_content_update" : 1572287539,
+    "path" : "~/Documents/GitHub/course-fish274-2019/R-projects/week-5/exercises.R",
+    "project_path" : "exercises.R",
+    "properties" : {
+        "cursorPosition" : "215,0",
+        "scrollLine" : "202"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

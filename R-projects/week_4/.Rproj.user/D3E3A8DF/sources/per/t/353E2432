@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571160128547.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "353E2432",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1571160128547,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6E541430",
+        "caption" : "surveys_by_species",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=surveys_by_species&cache_key=6E541430",
+        "displayedObservations" : 35549,
+        "environment" : "",
+        "object" : "surveys_by_species",
+        "preview" : 0,
+        "totalObservations" : 35549,
+        "variables" : 9
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

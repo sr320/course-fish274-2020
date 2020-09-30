@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555607085419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2636034064",
+    "id" : "420BA228",
+    "lastKnownWriteTime" : 1555612068,
+    "last_content_update" : 1555612068864,
+    "path" : "~/Documents/GitHub/course-fish497-2019/R-projects/w3-2019/scripts/w3-exercises.R",
+    "project_path" : "scripts/w3-exercises.R",
+    "properties" : {
+        "cursorPosition" : "92,16",
+        "scrollLine" : "84",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

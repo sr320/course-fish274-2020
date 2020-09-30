@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571160353649.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DE2649B3",
+    "lastKnownWriteTime" : 2478510834930679814,
+    "last_content_update" : 1571160353649,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E345F455",
+        "caption" : "shrub_dim",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=shrub_dim&cache_key=E345F455",
+        "displayedObservations" : "12",
+        "environment" : "",
+        "object" : "shrub_dim",
+        "preview" : "0",
+        "totalObservations" : "12",
+        "variables" : "5"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

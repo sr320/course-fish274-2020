@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555609683880.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1579489627",
+    "id" : "DC665CAB",
+    "lastKnownWriteTime" : 1555609212,
+    "last_content_update" : 1555609212,
+    "path" : "~/Documents/GitHub/course-fish497-2019/R-projects/w3-2019/data/gainesville-precip.csv",
+    "project_path" : "data/gainesville-precip.csv",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

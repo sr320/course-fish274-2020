@@ -1,0 +1,72 @@
+length <- c(2.2, 2.1, 2.7, 3.0, 3.1, 2.5, 1.9, 1.1, 3.5, 2.9)
+width <- c(1.3, 2.2, 1.5, 4.5, 3.1, 2.8, 1.8, 0.5, 2.0, 2.7)
+height <- c(9.6, 7.6, 2.2, 1.5, 4.0, 3.0, 4.5, 2.3, 7.5, 3.2)
+
+#volume of each shrub
+volume <- length*width*height
+str(volume)
+
+#total volume
+total_volume <- sum(volume)
+print(total_volume)
+
+length > 2.5
+high_length <- length > 2.5
+str(high_length)
+height[high_length]
+height_for_high_length <- height[high_length]
+#displays vector of all heights for shrubs with lengths > 2.5
+str(height_for_high_length)
+
+
+
+
+length <- c(2.2, 2.1, 2.7, 3.0, 3.1, 2.5, 1.9, 1.1, 3.5, 2.9)
+width <- c(1.3, 2.2, 1.5, 4.5, 3.1, 2.8, 1.8, 0.5, 2.0, 2.7)
+height <- c(9.6, 7.6, 2.2, 1.5, 4.0, 3.0, 4.5, 2.3, 7.5, 3.2)
+
+volume <- length * width * height 
+
+volume # Volume of each schrub
+
+sum(volume) # Volume of all lengths
+
+# heights at length > 2.5
+length > 2.5
+
+height[length > 2.5]
+
+
+shrub_data <- read.csv('data/shrub-dimensions-labeled.csv')
+
+#The shrub lengths
+data.frame(length)
+
+#The volume of each of the shrubs
+
+data.frame(length*width*height)
+
+
+shrub_data$length
+shrub_data$length*width*height
+
+
+> print(2-10)
+[1] -8
+> print(3*5)
+[1] 15
+> print(9/2)
+[1] 4.5
+> print(5-3*2)
+[1] -1
+> print((5-3)*2)
+[1] 4
+> print(4**2)
+[1] 16
+> print(8/2**2)
+[1] 2
+> # Exercise 
+  
+  library("dplyr")
+
+remove.packages("dplyr")
