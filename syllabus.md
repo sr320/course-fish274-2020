@@ -3,13 +3,13 @@ layout: page
 title: Syllabus
 catalog: FISH 274
 credits: 3
-semester: Autumn 2019
+semester: Autumn 2020
 professor: Dr. Steven Roberts
 office: FTR 232
 email: sr320@uw.edu
 phone: 206-866-5141
-schedule: ['Tuesdays, 9:30 – 11:20AM, FSH 213',
-           'Thursdays, 9:30 – 10:50AM, FSH 213']
+schedule: ['Tuesdays, 9:30 – 11:20AM, Online',
+           'Thursdays, 9:30 – 10:50AM, Online']
 #office_hours: Monday 2-3:15 and Wednesday 11-12
 #office_hours_location: Newins-Zeigler 203
 TA: TBD
@@ -91,7 +91,7 @@ Students completing this course will be able to:
 This class is taught using a partially flipped, learner-centered, approach, because
 learning to program and work with data requires actively working on
 computers. Flipped classes work well for all kinds of content, but I think they
-work particularly well for computer oriented classes. 
+work particularly well for computer oriented classes.
 
 
 ## Course Policies
