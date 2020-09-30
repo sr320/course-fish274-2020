@@ -10,10 +10,10 @@ permalink:        pretty
 
 # Setup
 title:            Introduction to Data Analysis for Aquatic Sciences
-description:      'A newish course with a focus on R - no experience required'
+description:      'Fundamental aspects of data acquisition, data wrangling, and visualization'
 url:              https://sr320.github.io/course-fish274-2020
 baseurl:          /course-fish274-2020
-email:            roberts.sbr@gmail.com
+email:            sr320@uw.edu
 feedbackurl:
 author:
   name:           'Steven Roberts'
