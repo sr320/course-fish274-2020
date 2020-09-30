@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Introduction to Data Analysis for Aquatic Sciences
 description:      'A newish course with a focus on R - no experience required'
-url:              https://sr320.github.io/course-fish274-2019
-baseurl:          /course-fish274-2019
+url:              https://sr320.github.io/course-fish274-2020
+baseurl:          /course-fish274-2020
 email:            roberts.sbr@gmail.com
 feedbackurl:
 author:
@@ -20,5 +20,5 @@ author:
   url:            https://twitter.com/sr320
 
 github:
-  repo:           https://github.com/sr320/course-fish274-2019
+  repo:           https://github.com/sr320/course-fish274-2020
   #               Be sure the 'Issues' feature is activated in 'Settings'
