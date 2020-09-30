@@ -16,7 +16,7 @@ exercises: ['Set Up Git', 'First Solo Commit', 'Second Solo Commit', 'Commit Mul
 {% include reading.html %}
 
 
-### [Canvas Quiz](https://canvas.uw.edu/courses/1342171/quizzes/1159690)
+### [Canvas Quiz](https://canvas.uw.edu/courses/1398231/quizzes/1159690)
 
 ---
 ### How To

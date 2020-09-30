@@ -19,7 +19,7 @@ language: Excel
 
 
 
-## 1) [Week 1 "Quiz" on Canvas](https://canvas.uw.edu/courses/1342171/quizzes/1159687)
+## 1) [Week 1 "Quiz" on Canvas](https://canvas.uw.edu/courses/1398231/quizzes/1159687)
 
 
 ## 2) [Summary Sheets](https://canvas.uw.edu/courses/1273428/assignments/4761919) Due Thursdays (Except this one!)
