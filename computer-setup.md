@@ -77,4 +77,4 @@ Unix-style line endings” selected.</strong></li>
 
 ### R
 
-Download and install the [R base system](http://cran.rstudio.com/). I recommend you use the [R studio](http://www.rstudio.com/products/rstudio/download/) to work with the base system.
+Download and install the [R base system](http://cran.rstudio.com/). We will be using [R studio](http://www.rstudio.com/products/rstudio/download/) to work with the base system.
