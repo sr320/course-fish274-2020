@@ -35,8 +35,10 @@ see also
 You need to download some files to follow this lesson:
 
 Make a new folder in your Desktop called shell-novice.
-Download [shell-novice-data.zip](https://github.com/sr320/course-btea/blob/master/data/shell-novice-data.zip?raw=true) and move the file to this folder.
+Download [shell-novice-data.zip](https://github.com/sr320/course-fish274-2020/blob/master/data/shell-novice-data.zip?raw=true) and move the file to this folder.
 If it’s not unzipped yet, double-click on it to unzip it. You should end up with a new folder called data.
+
+see also `https://github.com/sr320/course-fish274-2020/blob/master/data/shell-novice-data.zip`
 
 
 
@@ -820,8 +822,8 @@ The `>` tells the shell to [redirect][5] the command's output to a file instead 
     $ ls lengths
 
     lengths
-    
-    
+
+
 ## cat
 We can now send the content of `lengths` to the screen using `cat lengths`. `cat` stands for "concatenate": it prints the contents of files one after another. There's only one file in this case, so `cat` just shows us what it contains:
 
