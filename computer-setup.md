@@ -3,8 +3,9 @@ layout: page
 title: Computer Setup
 ---
 
-***Students will need their laptops set up with Microsoft Excel by the start of
-classes, Unix Shell - Bash by week 2, R by week 3, and Jupyter Notebook by week 5.***
+***Students will need their laptops set up with Microsoft Excel and R by week 3.***
+This year with UW hosting JupyterHub, we can use Unix Shell - Bash and Jupyter in the cloud. However you can use your own machine if you prefer.
+
 
 ### Microsoft Excel
 
@@ -74,13 +75,6 @@ Unix-style line endings” selected.</strong></li>
 </ol>
 
 
-#### Cocalc
-https://cocalc.com/doc/features.html
-
-
-
 ### R
 
 Download and install the [R base system](http://cran.rstudio.com/). I recommend you use the [R studio](http://www.rstudio.com/products/rstudio/download/) to work with the base system.
-
-### Jupyter Notebook
