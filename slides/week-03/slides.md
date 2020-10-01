@@ -5,7 +5,7 @@ class: center, middle
 
 R
 
-https://genefish.co
+https://sr320.github.io/course-fish274-2020/
 
 
 Steven Roberts
