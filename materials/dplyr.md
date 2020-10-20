@@ -85,8 +85,7 @@ head(combined)
 ```
 surveys_DS <- filter(surveys, species_id == "DS")
 surveys_DS_by_yr <- group_by(surveys_DS, year)
-avg_weight_DS_by_yr <- summarize(surveys_DS_by_yr,
-                                 avg_weight = mean(weight, na.rm=TRUE))
+avg_weight_DS_by_yr <- summarize(surveys_DS_by_yr, avg_weight = mean(weight, na.rm=TRUE))
 ```
 
 * Pipes:
