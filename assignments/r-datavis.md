@@ -17,6 +17,7 @@ exercises: ['Mass vs Metabolism', 'Adult vs Newborn Size', 'Sexual Dimorphism Ex
 {% include reading.html %}
 
 ### Reminder on the Weekly Quiz and Summary Sheet.
+Just as last week, you will be uploading a zip file.
 
 ---
 
