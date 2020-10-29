@@ -10,7 +10,7 @@ pattern in birds.
 
 Download and import a
 [large publicly available dataset of bird size measures](http://www.esapubs.org/archive/ecol/E088/096/avian_ssd_jan07.txt)
-created by [Lislevand et al. 2007](https://doi.org/10.1890/06-2054).
+created by [Lislevand et al. 2007](https://doi.org/10.1890/06-2054). That same data is also mirrored [here](http://gannet.fish.washington.edu/seashell/snaps/avian_ssd_jan07.txt)
 
 Import the data into R. It is tab delimited so you'll want to use `sep = "\t"`
 as an optional argument when calling `read.csv()`. The `\t` is how we indicate a
