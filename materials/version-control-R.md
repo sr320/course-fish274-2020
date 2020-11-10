@@ -247,9 +247,3 @@ ggplot(fish_data_cat, aes(x = scalelength, fill = length_cat)) +
 > Do Tasks 3-6 in [Exercise 6 - Pulling and Pushing]({{ site.baseurl }}/exercises/Version-control-basic-pulling-and-pushing-R/).
 
 * Collaborating on Github can get more complex with "forks" and "branches.
-
-> *Optional*: Redraw diagram with local, `origin`, and `upstream`. Arrows from
-> `origin` to/from `upstream` are pull requests and merges.
-
-> Show an [example of a working repository]({{ site.github.repo }}) with
-> branches and forks. Navigate to pull requests.
