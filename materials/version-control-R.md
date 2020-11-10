@@ -143,7 +143,7 @@ fish_data_cat <- fish_data %>%
     * Change category cut-off size
 
 ```
-fish_data_cat = fish_data %>%
+fish_data_cat <- fish_data %>%
   mutate(length_cat = ifelse(length > 300, "big", "small"))
 ```
 
