@@ -15,7 +15,7 @@ ds8
 a
 d8of8pp
 ```
-before somehow hitting `Ctrl-s` and overwriting all of your hard word.
+before somehow hitting `Ctrl-s` and overwriting all of your hard work.
 
 Determined to not let this happen again you've committed to using `git` for
 version control.
