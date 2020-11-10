@@ -166,7 +166,7 @@ fish_data_cat <- fish_data %>%
 #### Experiment with impunity
 
 ```
-fish_data_cat = fish_data %>%
+fish_data_cat <- fish_data %>%
   mutate(length_cat = ifelse(length > 300, "large", "small"))
 ```
 
