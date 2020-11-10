@@ -215,7 +215,7 @@ fish_data_cat <- fish_data %>%
 
 > Do [Exercise 5 - Pushing Changes]({{ site.baseurl }}/exercises/Version-control-basic-pushing-changes-R/).
 
-> Have students slack a link to their repo to once they have
+> Have students chat a link to their repo to once they have
 > finished Pushing Changes
 >
 > The instructor should then commit the following code to their repo
