@@ -101,7 +101,7 @@ data files and code in a more manageable way.
 * Read in data to new R script.
 
 ```
-fish_data = read.csv("Gaeta_etal_CLC_data.csv")
+fish_data <- read.csv("Gaeta_etal_CLC_data.csv")
 ```
 
 * Save as `fish-analysis.R`.
