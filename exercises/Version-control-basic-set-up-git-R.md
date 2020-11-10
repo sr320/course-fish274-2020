@@ -23,7 +23,10 @@ version control.
 Install `Git` for your operating system.
 
 
+
 <h3 id="git">Git</h3>
+
+Installing the GitHub Desktop Application should be sufficient for installation purposes. There are several other ways including some below.
 
 <h4 id="windows">Windows</h4>
 
