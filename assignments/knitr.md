@@ -26,7 +26,7 @@ exercises: ['Knitr']
 
 ****
 
-### [Canvas Quiz](https://canvas.uw.edu/courses/1398231/quizzes/1159686)
+### [Canvas Quiz](https://canvas.uw.edu/courses/1398231/quizzes)
 
 ---
 
