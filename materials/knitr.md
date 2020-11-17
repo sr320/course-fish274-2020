@@ -137,14 +137,6 @@ ggplot(time_series, aes(x = year, y = count)) +
   facet_wrap(~species_id)
 ```</code></pre>
 
-### Notebook
-
-* In RStudio run chunks using `Ctrl-Shift-Enter` or `Cmd-Shift-Enter`
-* Displays results in the editor
-
-* Notebook
-
-* `output: html_notebook` or File -> New File -> R Notebook
 
 
 ### R Presentations
