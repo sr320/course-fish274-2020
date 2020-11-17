@@ -34,7 +34,7 @@ language: R
         * `*`
         * `1.`
 
-	
+
 <pre><code>## Concept
 
 Exploration of population dynamic patterns at **The Portal Project**.
@@ -57,9 +57,9 @@ In this document I will:
 * Markdown is common on lots of websites
 * Used to create all of the exercises and lectures in this course
 * Github will automatically render it
-    * [https://github.com/ethanwhite/CV/blob/master/CV.md](https://github.com/ethanwhite/CV/blob/master/CV.md)
+    * [https://github.com/RobertsLab/website/blob/master/Publications.md](https://github.com/RobertsLab/website/blob/master/Publications.md)
 
-### R chunks 
+### R chunks
 
 * R Markdown allows you to include code to run in the document
 * Click on `Insert` and choose R
@@ -113,7 +113,7 @@ The data includes `r length(unique(data$species_id))` species.
 <pre><code>## Analysis
 
 Get the time-series of counts for all species.
-          
+
 ```{r}
 time_series <-
   data %>%
@@ -157,8 +157,8 @@ ggplot(time_series, aes(x = year, y = count)) +
 
 <pre><code>Untitled
 ========================================================
-author: 
-date: 
+author:
+date:
 autosize: true
 
 
