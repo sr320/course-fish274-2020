@@ -82,7 +82,7 @@ genes_wide <- data.frame(
     * Gets data in long format
 
 ```
-genes_long = genes_wide %>%
+genes_long <- genes_wide %>%
   gather(base, base_counts, a:t)
 ```
 
