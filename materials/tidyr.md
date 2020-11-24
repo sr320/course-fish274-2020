@@ -34,7 +34,7 @@ library(tidyr)
 * In wide format
 
 ```
-genes_wide = data.frame(
+genes_wide <- data.frame(
   name = c("A", "B", "C"),
   a = c("16-Y", "25-N", "13-Y"),
   t = c("1-N", "12-Y", "31-Y")
