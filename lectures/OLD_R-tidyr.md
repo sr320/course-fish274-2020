@@ -1,6 +1,6 @@
 ---
 layout: page
-element: OLD_lecture
+element: lecture
 title: idyr
 language: R
 ---
