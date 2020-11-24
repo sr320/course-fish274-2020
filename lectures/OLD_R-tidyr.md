@@ -1,7 +1,7 @@
 ---
 layout: page
 element: OLD_lecture
-title: Tidyr
+title: idyr
 language: R
 ---
 
