@@ -1,7 +1,7 @@
 ---
 layout: page
 element: notes
-title: Mini Project
+title: Mini Projects
 language: R
 ---
 
